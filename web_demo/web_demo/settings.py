@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'l&o6fr3_8x4awyotr-+6ci$+*wmg$+q3pjxcx-v&mh@r22vh%1'
+SECRET_KEY = '1wn)7*0kg!n%5h*zg4=ewop5csal3o@3@+pdv_pfqe4-r2-c$k'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'helloword.apps.HellowordConfig',
+    'helloworld.apps.HelloworldConfig',
     'users.apps.UsersConfig',
 ]
 
@@ -105,6 +105,26 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+# Django框架的缓存存储配置，默认是服务器内存，此处将缓存配置为：redis
+CACHES = {
+    # 缓存空间
+    "default": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        # 缓存空间的地址，此处是对应redis数据库的地址
+        # 注意：这里 192.168.19.131 需要改成自己的 redis 数据库的IP
+        "LOCATION": "redis://192.168.19.128:6379/1",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    }
+}
+
+# Django框架的 Session 存储配置，此处是设置将 Session 数据存储到缓存中
+# 注意：因为缓存已经设置为了redis，所有自然 session 数据就会存储到 redis 数据库中
+SESSION_ENGINE = "django.contrib.sessions.backends.cache"
+# 此处是设置将 Session 数据存储到 CACHES 缓存的 default 空间中
+SESSION_CACHE_ALIAS = "default"
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
@@ -124,3 +144,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# https://dl.pstmn.io/download/latest/win64
