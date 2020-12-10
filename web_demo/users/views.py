@@ -6,20 +6,38 @@ from django.views import View
 # a = hashlib.md5()
 
 # Create your views here.
-def register(request):
-    if request.method == 'GET':
-        return render(request, 'register.html')
-    else:
-        # name = request.POST.get('username')
-        # pwd = request.POST.get('password')
-        # web_db.objects.create(username=name, password=pwd)
-        # return redirect('/login/')
-        import json
-        req_dict = json.loads(request.body)
-        username = req_dict.get('username')
-        password = req_dict.get('password')
-        web_db.objects.create(username=username, password=password)
-        return redirect('/login/')
+# def register(request):
+#     if request.method == 'GET':
+#         return render(request, 'register.html')
+#     else:
+#         # name = request.POST.get('username')
+#         # pwd = request.POST.get('password')
+#         # web_db.objects.create(username=name, password=pwd)
+#         # return redirect('/login/')
+#         import json
+#         req_dict = json.loads(request.body)
+#         username = req_dict.get('username')
+#         password = req_dict.get('password')
+#         web_db.objects.create(username=username, password=password)
+#         return redirect('/login/')
+
+
+class RegisterView(View):
+
+    def get(self, request):
+        if request.method == 'GET':
+            return render(request, 'register.html')
+        else:
+            # name = request.POST.get('username')
+            # pwd = request.POST.get('password')
+            # web_db.objects.create(username=name, password=pwd)
+            # return redirect('/login/')
+            import json
+            req_dict = json.loads(request.body)
+            username = req_dict.get('username')
+            password = req_dict.get('password')
+            web_db.objects.create(username=username, password=password)
+            return redirect('/login/')
 
 
 class LoginView(View):
