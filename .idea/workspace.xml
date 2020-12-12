@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f965397b-02ec-4bef-9ec2-e23e24de7940" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web_db/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_db/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_db/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/helloworld/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/helloworld/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/helloworld/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/helloworld/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/helloworld/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/helloworld/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/helloworld/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/helloworld/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/template/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/test1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/test1/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/test1/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/test1/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/.idea/web_demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/helloworld/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/helloworld/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/helloworld/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/helloworld/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/helloworld/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/helloworld/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/helloworld/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/helloworld/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_demo/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/users/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_demo/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/web_demo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_demo/web_demo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/web_demo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_demo/web_demo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/.idea/web_demo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/migrations/0002_auto_20201210_1634.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/migrations/0003_auto_20201210_1635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/web_demo1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/web_demo1/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/web_demo1/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo1/web_demo1/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lYbcDX1pS0lFn2MyRnCIOuZqOf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f965397b-02ec-4bef-9ec2-e23e24de7940" name="Default Changelist" comment="" />
+      <created>1607777048994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607777048994</updated>
+      <workItem from="1607777050583" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
