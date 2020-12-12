@@ -1,27 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c431822f-8f7e-4c4b-88a9-d44f297875fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+    <list default="true" id="f6140893-7035-4e0d-bf2b-24e6ba707cec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../web_db/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_db/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_db/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/helloworld/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/helloworld/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/helloworld/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/helloworld/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/helloworld/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/helloworld/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/helloworld/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/helloworld/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/template/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/test1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/test1/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/test1/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/test1/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_demo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_demo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_demo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/.idea/web_demo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/migrations/0002_auto_20201210_1634.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/migrations/0003_auto_20201210_1635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/web_demo1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/web_demo1/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/web_demo1/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_demo1/web_demo1/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +92,16 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1lMsaorolsrbS8EBPXibMoZWYMy" />
+  <component name="ProjectId" id="1lYbdrxVmfPpFnjmFJrkjnvKTtH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,50 +123,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
       <option name="PARAMETERS" value="runserver" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="web_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_demo/urls.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="web_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/users" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/users/views.py" />
-      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -148,14 +156,10 @@
     <list>
       <item itemvalue="Django Server.web_demo" />
       <item itemvalue="Python.manage" />
-      <item itemvalue="Python.urls" />
-      <item itemvalue="Python.views" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.manage" />
-        <item itemvalue="Python.views" />
-        <item itemvalue="Python.urls" />
       </list>
     </recent_temporary>
   </component>
@@ -164,103 +168,62 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c431822f-8f7e-4c4b-88a9-d44f297875fe" name="Default Changelist" comment="" />
-      <created>1607418360826</created>
+      <changelist id="f6140893-7035-4e0d-bf2b-24e6ba707cec" name="Default Changelist" comment="" />
+      <created>1607777061886</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607418360826</updated>
-      <workItem from="1607418364843" duration="13288000" />
-      <workItem from="1607473571649" duration="7958000" />
-      <workItem from="1607494982104" duration="7987000" />
-      <workItem from="1607516578830" duration="6162000" />
-      <workItem from="1607562663079" duration="127000" />
+      <updated>1607777061886</updated>
+      <workItem from="1607777063042" duration="50000" />
     </task>
-    <task id="LOCAL-00001" summary="用户登录, url参数返回, login的类视图">
-      <created>1607520081090</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1607520081090</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="用户登录, url参数返回, login的类视图" />
-    <option name="LAST_COMMIT_MESSAGE" value="用户登录, url参数返回, login的类视图" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607419227844">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607777112273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607419227844" />
-    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1607418546003">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607777112273" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1607777089574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607418546003" />
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1607525869767">
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607777089574" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1607777104337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607525869767" />
-    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1607525869767">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607777104337" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1607777104336">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607525869767" />
-    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1607525869767">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607777104336" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1607777104336">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607525869767" />
-    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1607525869767">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607777104336" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1607777104337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607525869767" />
-    <state width="1493" height="268" key="GridCell.Tab.1.bottom" timestamp="1607486988550">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607777104336" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1607777104337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607486988550" />
-    <state width="1493" height="268" key="GridCell.Tab.1.center" timestamp="1607486988549">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607777104337" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1607777104337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607486988549" />
-    <state width="1493" height="268" key="GridCell.Tab.1.left" timestamp="1607486988549">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607777104337" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1607777104337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607486988549" />
-    <state width="1493" height="268" key="GridCell.Tab.1.right" timestamp="1607486988550">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607777104337" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1607777104337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607486988550" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1607418550482">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607777104337" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1607777092236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607418550482" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607520090755">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607520090755" />
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607433673192">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607433673192" />
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607777092236" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/web_demo$manage.coverage" NAME="manage Coverage Results" MODIFIED="1607525360505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/web_demo$urls.coverage" NAME="urls Coverage Results" MODIFIED="1607425214929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_demo" />
-    <SUITE FILE_PATH="coverage/web_demo$views.coverage" NAME="views Coverage Results" MODIFIED="1607525191729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/users" />
+    <SUITE FILE_PATH="coverage/web_demo$manage.coverage" NAME="manage Coverage Results" MODIFIED="1607777320668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
